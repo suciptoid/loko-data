@@ -1,0 +1,8 @@
+{
+  "format": 1,
+  "base_checkpoint": "2026-11-02",
+  "base_stamp": "68671c31a79caea9",
+  "base_content_hash": "b1c4805b8e465b269e3a50a4fa6188d0126be9af0493dfbe318f3fc1eca325f5",
+  "base_row_counts": {"station": 692, "train": 2632, "schedule_stop": 57028, "train_route": 2632, "rail_segment": 1508, "meta": 3},
+  "deltas": []
+}
